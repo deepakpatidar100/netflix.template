@@ -1,0 +1,32 @@
+body {
+    background-image: url(./img/netflixbanner.jpg);
+    background-size: 100% 700px;
+    background-repeat: no-repeat;
+}
+
+.shade {
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 700px;
+}
+
+section {
+    background-color: black;
+    height: 100%;
+    margin-top: -105px;
+    color: white;
+}
+
+footer {
+    background-color: black;
+    height: 100%;
+    margin-top: -20px;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    
+}
